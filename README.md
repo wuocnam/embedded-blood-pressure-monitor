@@ -3,9 +3,9 @@
 A real-time, non-invasive blood pressure monitoring system utilizing an embedded microcontroller and a custom-designed analog front-end for high-precision sensor data acquisition.
 
 ## 📸 Product Showcase
-<img width="1706" height="2560" alt="z7873014103155_68d4da9852d3bea1b45f12b7498baded" src="https://github.com/user-attachments/assets/ca694ccc-8a7c-47ba-9329-7cd3e7daae77" />
-<img width="1080" height="1920" alt="z7873015730073_17597a3d94fae7621c3b929b31e877bd" src="https://github.com/user-attachments/assets/6cf4fada-9156-4325-92cd-fa22f21f39db" />
-<img width="2090" height="2065" alt="z7873015730836_ad06e7b14a9b0673478aa2cc813ee6c5" src="https://github.com/user-attachments/assets/912c3896-3e8c-4848-9266-6e9eb053c25e" />
+<img width="1706" height="2560" alt="z7873014103155_68d4da9852d3bea1b45f12b7498baded" src="https://github.com/user-attachments/assets/eba61e89-448e-466b-ae82-f454ee49021a" />
+<img width="2090" height="2065" alt="z7873015730836_ad06e7b14a9b0673478aa2cc813ee6c5" src="https://github.com/user-attachments/assets/3d077eb9-b64d-4088-9ef2-ac18e7a849df" />
+
 ## 🛠️ Hardware & System Design
 - **Microcontroller:** Arduino Nano (ATmega328P) with 16x2 LCD UI.
 - **Pressure Sensor:** MPS20N0040D (0-40kPa).
